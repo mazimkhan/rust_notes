@@ -21,7 +21,7 @@ companion references.
 
 ## Phase 1 — Fundamentals
 
-- [ ] **01.** [Hello, Cargo!](01_hello_cargo/README.md) — toolchain, `cargo new`, `cargo run`, `cargo check`
+- [x] **01.** [Hello, Cargo!](01_hello_cargo/README.md) — toolchain, `cargo new`, `cargo run`, `cargo check`
 - [ ] **02.** [Variables, Mutability & Constants](02_variables_mutability/README.md) — `let`, `mut`, shadowing, `const`, `static`
 - [ ] **03.** [Data Types](03_data_types/README.md) — scalars, tuples, arrays, type inference & annotation
 - [ ] **04.** [Functions & Control Flow](04_functions_control_flow/README.md) — `fn`, expressions vs statements, `if`, `loop`, `while`, `for`
